@@ -154,15 +154,3 @@ function deleteS(todo) {
 }
 
 
-// functions for filters
-function viewCompleted() {
-    addinmain(comdoList);
-}
-
-function viewRemaining() {
-
-    addinmain(remList);
-}
-function viewAll() {
-    addinmain(todoList);
-}
