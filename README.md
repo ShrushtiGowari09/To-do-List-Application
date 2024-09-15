@@ -25,16 +25,22 @@ A user-friendly To-Do List application built using HTML, CSS, and JavaScript. Th
 ## Usage
 
 - **Add a Task**: Enter a task name, set its priority and due date, and click "Add Task."
-- **Edit or Delete a Task**: Use the respective buttons next to each task to modify or remove it.
+- **Delete a Task**: Use the respective buttons next to each task to modify or remove it.
 - **Mark as Complete**: Click the checkbox next to a task to mark it as completed, which will strike through the task name.
 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request to contribute to this project.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-Feel free to customize the description based on additional features or changes in your application.
+## Contact
+
+For any questions or feedback, please reach out to [Shrushti Gowari](mailto:shrushtigowari09@gmail.com).
+
+
+
